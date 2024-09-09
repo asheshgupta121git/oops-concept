@@ -1,0 +1,26 @@
+Oops has the 4 major pillar.
+1)ENCAPSULATION = it is define as the WRAPPING UP of data and methods under a single unit. it also implements data hiding.
+    => in simple it is binding or wrapping up of data(PROPERTIES) and methods(FUNCTIONS) in single class.
+
+
+2)INHERITANCE = Inheritance is when property and method of base (PARENT) class are passed on the derived(CHILD)class.          
+        =>Types of inheritance 
+        1)single level inheritance. 
+        2)Multi level  inheritance.
+        3)Hierarchical Inherit
+        4)Hybrid inheritance
+
+3)POLYMORPHISM = When we try to do same thing in many forms, is called polymorphism. In simple when we create the same type of constructor in many forms, this is an example of polymorphism. 
+        =>There are two types of polymorphism.
+            1)compile time polymorphism or (Static polymorphism).
+                ->it has type called "METHOD OVERLOADING"
+                        -->Multiple function with same name but different parameters called method overloading. 
+            2)runtime polymorphism or (dynamic polymorphism). 
+                ->It has a type called "Method Overriding
+                        -->Parent and child classes both contain the same function with a different definitions called method overriding.
+
+4)ABSTRACTION = Hiding all unnecessary details and showing only important part of the user called abstraction 
+        =>Abstract classes 
+             -> Cannot create An instance of abstract classes. 
+                -> We have abstraction-abstract. abstract method. 
+                -> Can have constructors.

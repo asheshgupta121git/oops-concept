@@ -1,0 +1,15 @@
+CONSTRUCTOR => it is a special method which is invoked automatically at the time of OBJECT CREATION.
+    ->it have the same name as class or structor
+    ->it don't have a return type.(NOT EVEN Void)
+    ->they are onlu called once, at object CREATION
+    ->memory allocation happens when constructor is called.
+
+    => THEIR ARE 3 TYPE OF  CONSTRUCTOR
+        ->Non-parametrized
+        ->Parametrized
+        ->Copy constructor(it transfer the property of one object into another object.)
+
+CONSTRUCTOR OVERLOADING => In java if we make many constructor of same name and according to use java call the desired constructor this phenomenen is called CONSTRUCTOR OVERLOADING.
+    -> constructor overloading is an example of PLOYMORPHISM.
+
+In Java, there is a garbage collector. Which automatically work as an destructor We do not have to create an additional destructor in Java. 
